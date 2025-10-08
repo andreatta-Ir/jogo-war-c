@@ -1,0 +1,32 @@
+# Objetos e executáveis C
+*.o
+*.exe
+*.out
+*.app
+war  # O executável do jogo
+war.exe
+
+# Diretórios de build
+build/
+obj/
+bin/
+
+# Arquivos temporários do editor/compilador
+*.tmp
+*.swp
+*.bak
+*~
+
+# Logs e caches
+*.log
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# IDEs (se usar VS Code, Eclipse, etc.)
+.vscode/
+.idea/
+*.code-workspace
+
+# Outros comuns em C
+a.out
+core
